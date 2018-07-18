@@ -1,0 +1,15 @@
+{
+  "name": "devexpressreact",
+  "version": "1.0.0",
+  "description": "Desarrollo Api Rest, React, Express, Material UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Navarro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
